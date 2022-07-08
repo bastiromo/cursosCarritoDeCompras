@@ -38,3 +38,5 @@ function leerDatosCurso(curso) {
     console.log(infoCurso);
 }
 
+
+console.log('ESTE ES UN NUEVO MENSAJEE');
