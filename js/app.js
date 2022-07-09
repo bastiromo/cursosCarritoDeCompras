@@ -40,3 +40,4 @@ function leerDatosCurso(curso) {
 
 
 console.log('ESTE ES UN NUEVO MENSAJEE');
+console.log('Nuevo log');
